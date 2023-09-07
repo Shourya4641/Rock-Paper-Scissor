@@ -59,3 +59,8 @@ To build and run the program, follow these steps:
    
 5. Follow the on-screen instructions to play the game.
 
+## Flowchart
+<img src="">
+
+## Mindmap
+<img src="">
