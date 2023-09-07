@@ -60,7 +60,7 @@ To build and run the program, follow these steps:
 5. Follow the on-screen instructions to play the game.
 
 ## Flowchart
-<img src="">
+<img src="https://github.com/Shourya4641/Rock-Paper-Scissor/blob/master/Flowchart.jpg">
 
 ## Mindmap
-<img src="">
+<img src="https://github.com/Shourya4641/Rock-Paper-Scissor/blob/master/Mind%20Map.jpg">
